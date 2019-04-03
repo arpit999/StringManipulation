@@ -8,7 +8,26 @@
 <p>Here are the contents of the TPS report:</p>
 <p>{{message}}</p>
 <p>If you have any questions regarding this report, please
-do <b>not</b> ask Mark Murphy.</p>
+do <strong>not</strong> ask Mark Murphy.</p>
+
+<a href="url" target="_blank">link text</a>
+
+<h2>HTML <mark>Marked</mark> Formatting</h2>
+
+<p>My favorite color is <del>blue</del> red.</p>
+
+<p>My favorite <ins>color</ins> is red.</p>
+
+<p>This is <sub>subscripted</sub> text.</p>
+
+<p>This is <sup>superscripted</sup> text.</p>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
 </body>
 </html>
 ]]>
